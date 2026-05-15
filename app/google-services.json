@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281923723934",
+    "project_id": "gramavasathi-7c3b2",
+    "storage_bucket": "gramavasathi-7c3b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281923723934:android:4254ce850af8be3403918f",
+        "android_client_info": {
+          "package_name": "com.example.businesscardapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA8AP3_mx_O3Lvc9cWj_OHxynSbhXPvOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
