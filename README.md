@@ -131,7 +131,12 @@ app/google-services.json
 
 # Screenshots
 
-Add your application screenshots here.
+<img width="270" height="524" alt="image" src="https://github.com/user-attachments/assets/6d552dd7-190e-457d-a19b-c0d02366380e" />
+<img width="305" height="502" alt="image" src="https://github.com/user-attachments/assets/68b4c073-110a-49f7-9b3b-24e52be51dbb" />
+<img width="272" height="310" alt="image" src="https://github.com/user-attachments/assets/d151d9f6-5d30-4ac4-9f5a-679115ebc391" />
+<img width="286" height="180" alt="image" src="https://github.com/user-attachments/assets/a20ce35d-5fd2-4977-908a-59e06804a9c0" />
+<img width="277" height="220" alt="image" src="https://github.com/user-attachments/assets/8d6b559f-8b87-4929-99c7-c7e346bbdec8" />
+
 
 Example:
 
